@@ -8240,5 +8240,5 @@ Orandi Harris
 - [Chris Webster](https://github.com/whycantidraw)
 - [Grant Fogle](https://github.com/grantfogle)
 - [phaneendrababu](https://github.com/phaneendrababu)
-- [Jayanada Abimanie](https://github.com/Abimanie)
+- [Jayanada Abimani](https://github.com/Abimanie)
 -sujan lohitha
